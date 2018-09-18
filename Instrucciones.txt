@@ -1,0 +1,8 @@
+Ejemplo de programa para buscar un alumno en base a su matricula o a su tecnica
+
+Matriculas          Tecnicas
+145798               sistemas
+138974               diseño
+142114               afd
+151224
+149854
